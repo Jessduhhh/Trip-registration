@@ -17,7 +17,7 @@ h1::first-letter {
 }
 h1::selection{
     color:gold;
-    background-color: blueviolet;
+    background-color: rgb(134, 228, 118);
 }
 
 
